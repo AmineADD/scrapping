@@ -1,0 +1,24 @@
+{
+  "name": "tp8",
+  "version": "1.0.0",
+  "description": "TP8 Module Programmation WEB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmineADD/scrapping.git"
+  },
+  "author": "Amine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmineADD/scrapping/issues"
+  },
+  "homepage": "https://github.com/AmineADD/scrapping#readme",
+  "dependencies": {
+    "jsdom": "^16.5.3",
+    "url-parse": "^1.5.1"
+  },
+  "devDependencies": {}
+}
